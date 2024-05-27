@@ -1,4 +1,7 @@
 ### Olá me chamo Matheus Oliveira 👋
+## Cursando Bacharelado em Ciências da conputação
+
+#Por semestre terei alguns projetos, por final postarei os mesmos por aqui. Aqui começa uma nova jornada....
 
 
 ![mat227 GitHub stats](https://github-readme-stats.vercel.app/api?username=mat227&show_icons=true&theme=radical)
