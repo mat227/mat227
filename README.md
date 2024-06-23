@@ -4,7 +4,7 @@
 
 
 # Por semestre terei alguns projetos, por final postarei os mesmos por aqui. 
-## Aqui começa uma nova jornada....
+## Aqui começa uma nova jornada...
 
 ------
 
