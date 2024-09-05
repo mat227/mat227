@@ -1,12 +1,25 @@
-# Olá me chamo Matheus Oliveira
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+Name+is+Matheus+Oliveira+Lima+Dos+Santos;I'm+18+years+old;I+am+a+Computer+Science+Student;I+am+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## Cursando Bacharelado em Ciências da computação-Senac
+## ⭐ GitHub Stats
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mat227&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Oliveira Lima Dos Santos github stats" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mat227&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-# Por semestre terei alguns projetos, por final postarei os mesmos por aqui. 
-## Aqui começa uma nova jornada...
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
-<br><br>
+<br />
+
+------
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mat227&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 ------
   
 ## 🚀 Minhas Skills
@@ -24,10 +37,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 ------
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mat227&show_icons=true)
-
 ### ⚙️ GitHub Analytics
 
 <table>
@@ -56,22 +65,6 @@
     </td>
   </tr>
 </table>
-
-------
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=mat227&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
 
 ------
 
