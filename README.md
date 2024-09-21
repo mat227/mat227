@@ -2,7 +2,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+Name+is+Matheus+Oliveira+Lima+Dos+Santos;I'm+18+years+old;I+am+a+Computer+Science+Student;I+am+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## ⭐ GitHub Stats
+## ⭐GitHub Stats
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mat227&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Oliveira Lima Dos Santos github stats" />
